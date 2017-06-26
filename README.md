@@ -1,6 +1,6 @@
 
-# react-native-speech
+# react-native-preferences
 
 ## Getting started
 
-`$ npm install react-native-speech --save`
+`$ npm install react-native-preferences --save`
