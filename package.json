@@ -1,11 +1,11 @@
 
 {
-  "name": "react-native-speech-baidu",
+  "name": "react-native-preferences",
   "version": "0.0.1",
   "bugs": {
-    "url": "https://github.com/widuu/react-native-speech/issues"
+    "url": "https://github.com/widuu/react-native-preferences/issues"
   },
-  "description": "baidu tts react native module",
+  "description": "使用 Android 原生模块中的sharedPreferences",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/widuu/react-native-speech.git"
+    "url": "git+https://github.com/widuu/react-native-preferences.git"
   },
   "author": "widuu",
   "license": "Apache 2.0",
